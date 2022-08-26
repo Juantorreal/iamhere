@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "iamhere",
+    "slug": "iamhere",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
